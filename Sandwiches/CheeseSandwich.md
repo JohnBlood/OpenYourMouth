@@ -1,5 +1,5 @@
 # Cheese sandwich
-## The stapel of the working human.
+## The staple of the working human.
 
 ### Ingredients
 |Ingredients|
